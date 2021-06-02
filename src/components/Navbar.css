@@ -1,0 +1,9 @@
+.navbar {
+  background-color: #000066;
+}
+
+.navbar__img {
+  width: 100px;
+  height: 30px;
+  padding: 10px;
+}
