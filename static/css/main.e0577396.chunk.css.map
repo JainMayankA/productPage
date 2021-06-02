@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Navbar.css"],"names":[],"mappings":"AAAA,QACE,qBACF,CAEA,aACE,WAAY,CACZ,WAAY,CACZ,YACF","file":"main.e0577396.chunk.css","sourcesContent":[".navbar {\n  background-color: #000066;\n}\n\n.navbar__img {\n  width: 100px;\n  height: 30px;\n  padding: 10px;\n}\n"]}

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/productPage/static/css/main.e0577396.chunk.css",
+    "main.js": "/productPage/static/js/main.415720fa.chunk.js",
+    "main.js.map": "/productPage/static/js/main.415720fa.chunk.js.map",
+    "runtime-main.js": "/productPage/static/js/runtime-main.e157ebc6.js",
+    "runtime-main.js.map": "/productPage/static/js/runtime-main.e157ebc6.js.map",
+    "static/js/2.51856a65.chunk.js": "/productPage/static/js/2.51856a65.chunk.js",
+    "static/js/2.51856a65.chunk.js.map": "/productPage/static/js/2.51856a65.chunk.js.map",
+    "index.html": "/productPage/index.html",
+    "static/css/main.e0577396.chunk.css.map": "/productPage/static/css/main.e0577396.chunk.css.map",
+    "static/js/2.51856a65.chunk.js.LICENSE.txt": "/productPage/static/js/2.51856a65.chunk.js.LICENSE.txt",
+    "static/media/stackline_logo.5935081b.svg": "/productPage/static/media/stackline_logo.5935081b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e157ebc6.js",
+    "static/js/2.51856a65.chunk.js",
+    "static/css/main.e0577396.chunk.css",
+    "static/js/main.415720fa.chunk.js"
+  ]
+}
